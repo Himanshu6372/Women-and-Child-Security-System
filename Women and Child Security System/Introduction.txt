@@ -1,0 +1,6 @@
+Child safety is a paramount concern for parents and guardians worldwide, especially in today's fast-paced and increasingly interconnected society. With the advent of technology, there arises a unique opportunity to leverage innovations in electronics and communication to enhance child safety measures. This thesis explores the development and implementation of a child safety project utilizing the NodeMCU and GPS module, aimed at providing real-time tracking and monitoring of a child's whereabouts.
+
+Traditional methods of ensuring child safety, such as constant supervision or reliance on physical barriers, may not always be feasible or sufficient in today's dynamic environment. Recognizing this challenge, the project seeks to harness the capabilities of modern IoT (Internet of Things) devices to create a proactive solution that empowers parents and guardians with greater visibility and control over their child's movements.
+
+The NodeMCU, a versatile development board based on the ESP8266 WiFi module, serves as the central component of the system. Paired with a GPS module, the NodeMCU enables continuous tracking of the child's location in real-time. By integrating these technologies, the project aims to provide a reliable and efficient means of monitoring a child's movements both indoors and outdoors.
+
